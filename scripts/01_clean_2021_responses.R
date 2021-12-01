@@ -37,26 +37,19 @@ new_colnames <- c(
 
 clean_data <- raw_data %>% 
   set_colnames(value = new_colnames) %>%                                        # Update colnames
-  select(-c(timestamp, want_to_teach)) %>%                                      # Don't need
   mutate(preferred_contact = str_extract(preferred_contact, "[:alpha:]+"),
          people_invited = str_extract(people_invited, "[:digit:]"),
-         eds_instructed = str_extract(eds_instructed, "[:digit:]")) %>%
-  replace_na(list(where_from = "Missing"))
+         eds_instructed = str_extract(eds_instructed, "[:digit:]"),
+         affiliation = str_to_upper(affiliation),
+         affiliation = str_remove_all(affiliation, "[:punct:]"),
+         affiliation = str_remove(affiliation, "OF|GMAIL OR|INC"),
+         affiliation = str_squish(affiliation),
+         affiliation = case_when(str_detect(affiliation, "BREN") ~ "UCSB",
+                                 T ~ affiliation)) %>% 
+  rowwise() %>% 
+  mutate(acronym = paste(str_extract_all(affiliation, "\\b[A-Z]", simplify = T), collapse = "")) %>%
+  replace_na(list(where_from = "Missing",
+                  affiliation = "Missing",
+                  where_at = "Missing"))
 
-library(ggsankey)
-
-df <- clean_data %>% 
-  make_long(where_from, where_at, affiliation)
-    
-
-ggplot(df, aes(x = x, 
-               next_x = next_x, 
-               node = node, 
-               next_node = next_node,
-               label = node)) +
-  geom_sankey(color = "black", fill = "steelblue", alpha = 0.8) +
-  geom_sankey_label(size = 3, color = "white", fill = "gray40") +
-  theme_sankey(base_size = 18) +
-  scale_x_discrete(labels = c("Where are you from?", "Where are you based?", "What is your affiliation?")) +
-  theme(legend.position = "None") +
-  ggtitle("Member provenance")
+write_csv(x = clean_data, file = here("clean_data", "2021_community_survey_data.csv"))
