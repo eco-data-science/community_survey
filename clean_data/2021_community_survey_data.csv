@@ -1,0 +1,62 @@
+timestamp,preferred_contact,where_from,where_at,affiliation,type_of_organization,people_invited,eds_attended,eds_instructed,want_to_teach,acronym
+2021/11/08 3:43:22 PM PST,Slack,United States,United States,UCSB,Academia,1,2-5,0,NA,U
+2021/11/08 3:43:37 PM PST,Email,Mexico,United States,UCSB,Academia,3,> 10,3,NA,U
+2021/11/08 3:44:21 PM PST,Slack,United States,United States,UCSB,Academia,5,> 10,2,NA,U
+2021/11/08 3:44:33 PM PST,Slack,United States,United States,UNIVERSITY COLORADOBOULDER,Academia,5,2-5,0,NA,UC
+2021/11/08 3:44:57 PM PST,Slack,United States,United States,UCSB,Academia,1,> 10,0,possibly - I feel like topics i'm decent at have already been covered..,U
+2021/11/08 3:45:22 PM PST,Calendar,Chile,United States,UCSB,Academia,3,5-10,0,NA,U
+2021/11/08 3:46:16 PM PST,Email,United States,United States,UCSB,Academia,2,5-10,1,NA,U
+2021/11/08 3:47:24 PM PST,Email,Brazil,United States,UCSB,Academia,0,1,0,No,U
+2021/11/08 3:47:37 PM PST,Email,Missing,United States,UCSB,For-profit,NA,2-5,NA,NA,U
+2021/11/08 3:51:10 PM PST,Email,Canada,United States,UCSB,Academia,NA,2-5,NA,NA,U
+2021/11/08 3:51:29 PM PST,Slack,United Kingdom,Australia,UCSB,Academia,0,5-10,0,Maybe! Mapping in tmap,U
+2021/11/08 3:57:03 PM PST,Slack,United States,United States,UCSB,Academia,0,1,0,No,U
+2021/11/08 4:05:04 PM PST,Slack,United States,United States,UCSB,Academia,0,1,0,NA,U
+2021/11/08 4:17:02 PM PST,Slack,Brazil,Brazil,USP,Academia,0,1,0,I don't know which topics would be interesting. I usually like to teach about rmarkdown,U
+2021/11/08 4:37:14 PM PST,Email,Canada,United States,UCSB,Academia,2,2-5,0,NA,U
+2021/11/08 4:41:33 PM PST,Slack,United States,United States,UCSB,Government,NA,2-5,NA,NA,U
+2021/11/08 5:14:28 PM PST,Email,United States,United States,Missing,For-profit,0,5-10,0,NA,"NA"
+2021/11/08 5:42:07 PM PST,Email,United States,United States,OREGON STATE UNIVERSITY,joint academia and government (USDA ARS),3,2-5,0,maybe further in the future!,OSU
+2021/11/08 7:32:01 PM PST,Calendar,United States,United States,UCSB,Academia,1,2-5,0,NA,U
+2021/11/08 7:49:42 PM PST,Slack,United States,United States,UNR,Academia,8,2-5,0,No,U
+2021/11/08 9:23:11 PM PST,Email,Ecuador,Ecuador,Missing,Independent,2,2-5,0,No,"NA"
+2021/11/08 11:32:52 PM PST,Slack,United States,United States,UCSB,Academia,NA,2-5,1,NA,U
+2021/11/09 7:04:53 AM PST,Email,United States,United States,UCSB,Academia,NA,1,NA,NA,U
+2021/11/09 8:20:20 AM PST,Slack,United States,United States,UCSB,Academia,2,5-10,1,NA,U
+2021/11/09 8:51:25 AM PST,Email,United States,United States,UCSB,Academia,5,> 10,3,NA,U
+2021/11/09 9:41:01 AM PST,Email,United States,United States,UCSB,Academia,5,5-10,0,NA,U
+2021/11/09 11:14:23 AM PST,Email,United States,United States,UCSB,Academia,3,5-10,0,No,U
+2021/11/09 11:16:47 AM PST,Slack,United States,United States,UCSB,Academia,8,5-10,1,Spring - python xarray or pandas,U
+2021/11/09 1:05:12 PM PST,Email,United States,United States,UCSB,Academia,0,1,0,NA,U
+2021/11/09 2:44:14 PM PST,Email,United States,United States,OCEANRAINFOREST,For-profit,5,2-5,0,NA,O
+2021/11/09 9:51:31 PM PST,Slack,United States,United States,UCSB,Academia,2,2-5,0,NA,U
+2021/11/10 8:08:24 AM PST,Email,United States,United States,UCSB,Academia,3,5-10,NA,I could probably teach a SQL (or dbplyr) class if that's of interest to people,U
+2021/11/10 4:27:26 PM PST,Email,United States,United States,UCSB,Academia,5,2-5,0,NA,U
+2021/11/11 9:43:07 AM PST,Calendar,China,United States,ILLINOIS,Academia,0,1,0,not sure,I
+2021/11/15 8:59:12 AM PST,Slack,United States,United States,UCSB,Academia,3,> 10,1,NA,U
+2021/11/15 3:50:47 PM PST,Slack,United States,United States,UCSB,Academia,NA,NA,NA,NA,U
+2021/11/15 3:52:21 PM PST,Slack,United States,United States,UCSB,Academia,0,1,0,Still an undergraduate so not quite ready! Maybe geospatial work in R in a year or two!,U
+2021/11/15 3:54:09 PM PST,Slack,United States,United States,UCSB,Academia,1,1,0,NA,U
+2021/11/15 4:01:08 PM PST,Slack,United States,United States,UCSB,Academia,0,1,0,N/A,U
+2021/11/15 4:12:42 PM PST,Email,United States,United States,UCSB,Academia,2,2-5,0,"NetCDFs, boosted regression trees, random forests, making an R package, whatever there is demand for",U
+2021/11/15 4:42:17 PM PST,Slack,United States,United States,UCSB,Government,NA,2-5,2,NA,U
+2021/11/15 5:51:39 PM PST,Slack,"Bahamas, The",United States,UCSB,Academia,2,1,0,NA,U
+2021/11/15 6:46:25 PM PST,Slack,United States,United States,MASS,Government,0,1,0,No,M
+2021/11/15 7:31:25 PM PST,Email,Colombia,United States,PENN STATE UNIVERSITY PSU,Academia,1,> 10,1,Probably something in Spring quarter on Geovisualization,PSUP
+2021/11/15 10:57:10 PM PST,Slack,United States,United States,GMU,Academia (but am a recent graduate),0,NA,0,NA,G
+2021/11/16 6:24:17 AM PST,Slack,United States,United States,SCOOT SCIENCE,For-profit,4,5-10,1,NA,SS
+2021/11/16 6:35:25 AM PST,Slack,United States,United States,UFL,Academia,0,1,0,NA,U
+2021/11/16 8:18:25 AM PST,Slack,United States,United States,UCSB,Academia,NA,NA,NA,NA,U
+2021/11/16 12:40:04 PM PST,Slack,United States,United States,UMD,Academia,1,1,0,Not yet!,U
+2021/11/16 3:35:07 PM PST,Email,United States,United States,UCSB,Academia,3,1,0,NA,U
+2021/11/18 8:13:25 AM PST,Slack,United States,United States,"NAU",Academia,1,2-5,0,NA,N
+2021/11/18 8:22:51 AM PST,Slack,United States,United States,CONSERVATION INTERNATIONAL,Non-profit,0,2-5,0,No,CI
+2021/11/29 8:50:36 AM PST,Email,United States,United States,CONSERVATION METRICS,For-profit,0,2-5,NA,NA,CM
+2021/11/29 12:17:52 PM PST,Slack,United States,United States,UCSB,Academia,NA,> 10,4,happy to teach anything (in spring),U
+2021/11/29 12:50:34 PM PST,Email,United States,United States,UCSB,Academia,0,1,0,No thanks.,U
+2021/11/29 1:06:31 PM PST,Email,United States,United States,UCSB,Academia,0,2-5,0,no,U
+2021/11/29 2:07:19 PM PST,Slack,United States,United States,UNIVERSITY MONTANA,Academia,1,2-5,0,nope,UM
+2021/11/29 5:40:00 PM PST,Email,Chile,United States,UCSB,Academia,4,5-10,0,NA,U
+2021/11/30 5:29:26 AM PST,Email,United States,United States,UMD,Academia,NA,2-5,NA,potentially.  I'm not sure what the community is interested in.,U
+2021/11/30 8:44:53 AM PST,Slack,United States,United States,UCSB,Academia,0,1,0,NA,U
+2021/11/30 8:11:26 PM PST,Email,Peru,United States,UCSB,Academia,0,1,0,not ready,U
