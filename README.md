@@ -1,2 +1,5 @@
-# community_survey
-Clean, analyze, and visualize the EDS community survey data
+# Community Survey
+
+## 2021 results
+
+![](figures/2021_sankey.png)
